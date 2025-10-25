@@ -23,5 +23,3 @@ to create labelled ML data
 also possible of using
 https://github.com/pyushkevich/itksnap
 for a segmentation algorithm.
-
-Then there's also https://sourceforge.net/projects/itk-snap/ so maybe I don't even have to train an algorithm either or just have to modify it.
